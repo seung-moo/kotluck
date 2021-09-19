@@ -1,0 +1,2 @@
+rootProject.name = "kotluck"
+include ':app'
